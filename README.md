@@ -7,5 +7,3 @@
 1. Clone the repository : **```https://github.com/archit3cture-labs/1-lab```**
 2. Change directory in terminal : **```cd /1-lab```**
 3. Run **```go run . ```**
-
-Authors: [Bilokrynytskyi Stefan](https://github.com/Stefan-Bilokrynytskyi), [Kreslavskyi Mykhailo](https://github.com/kreslavskiy), [Vovk Nazar](https://github.com/Nazofer)
