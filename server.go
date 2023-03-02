@@ -27,5 +27,5 @@ func getCurrentTime(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.HandleFunc("/current-time", getCurrentTime)
-	http.ListenAndServe(":3000", nil)
+	http.ListenAndServe(":8795", nil)
 }
